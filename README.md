@@ -1,6 +1,6 @@
 # Sailent Points  :
 * **Scraping Process** : Scraping done primarily using Github REST API resources online discourse and ChatGPT assistance. After scraping, data was cleaned to create users.csv and repositories.csv
-* **Interesting Observations**: Self-defined a **Company Presence-Rating(look at analyisis.ipynb)** to find Top 10 companies based on presence. Interestingly, I found that **VERCEL** has the highest presence tied with **MICROSOFT**. Also, people who are not interested in recruiter mail(indicating stable developers) have a healthy presence at the 9th spot.
+* **Interesting Observations**: Self-defined a **Company Presence-Rating(look at analyisis.ipynb)** to find Top 10 companies based on presence. Interestingly, I found that **VERCEL** has the highest presence. Also, people who are not interested in recruiter mail(indicating stable developers) have a healthy presence at the 9th spot.
 * **Recommendation to Developers** : **JavaScript** and its variant **TypeScript** are by far the most popular language among users of the Top 5 companies in Berlin. So, to increase the number of followers developers can focus on projects related to these languages on Github.
 
 # Important Note :

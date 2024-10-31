@@ -11,7 +11,7 @@ Analysis has been done based on a *self-defined* **Company Presence Rating**. Lo
 
 ![Top 10 Companies Chart](top_companies.png)
 
-![Top 10 Languages at Top 5 Companies Chart](top_languages.png)
+![Top 10 Languages at Top 5 Companies Chart](top_languages_at_top_5_companies.png)
 
 
 

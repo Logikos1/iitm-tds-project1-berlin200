@@ -5,7 +5,7 @@
 > (Note 1: The analysis has been done in **analysis.ipynb** file and scraping and questions solved in **scrape.ipynb** file for convienience.)  
 > (Note 2:The scrape code **adheres to API rate limits**.)  
 
-**3. Interesting Findings**: Based on the **Company Presence-Rating**, interestingly I found that **VERCEL** has the highest presence. Also, people who are not interested in recruiter mail(indicating stable developers) take the 9th spot with healthy presence. (See result charts below)
+**3. Interesting Findings**: Based on the **Company Presence-Rating**, interestingly I found that **VERCEL** has the highest presence. Also, people who are not interested in recruiter mail *(indicating stable developers)* take the 9th spot with healthy presence. (See result charts below)
 
 **4. Recommendation to Developers** : **JavaScript** and its variant **TypeScript** are by far the most popular language among users of the Top 5 companies in Berlin. So, to increase the number of followers developers can focus on projects related to these languages on Github.
 
